@@ -1,0 +1,31 @@
+package com.OnlineTicketReservationSystem;
+
+public class OnlineTicketReservationSystem {
+    //create main method to control the flow of exection
+    public static void main(String[] args) {
+        //Create object for the ticketreservation
+        TicketReservationSystem system = new TicketReservationSystem();
+
+        //call the method to add ticket
+        system.addTicket(33, "Subhashree Sharma", "Bhool Bhulaiya", "A1", "10:00 AM");
+        system.addTicket(22, "Sonali Sharma", "Rio", "B2", "01:00 PM");
+        system.addTicket(11, "Satyajeet Sharma", "life of pie", "C3", "04:00 PM");
+
+        //call method to display the tickets
+        system.displayTickets();
+
+        //call method to serach the ticket
+        System.out.println("\nSearching for tickets:");
+        system.searchTicket("Blade runner 2049");
+        system.searchTicket("Inception");
+
+        //call method to display the ticket after removal
+        System.out.println("\nRemoving a ticket:");
+        system.removeTicket(102);
+        system.displayTickets();
+
+        //total tickets
+        System.out.println("\nTotal tickets:");
+        system.totalTickets();
+    }
+}
