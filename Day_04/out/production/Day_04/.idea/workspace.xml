@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59071c4d-1156-4be3-a8e3-abb192ca813b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Week_03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Week_03/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sYsWcfAndRA8K19o5w3TOW5Wik" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day__03",
+    "last_opened_file_path": "C:/Users/ss587/Downloads/Capgemini_files2/Week_03/Day_05",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ChallengeProblem">
+    <configuration name="ChallengeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ChallengeProblem.ChallengeProblem" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ChallengeProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertByteStreamToCharacterStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.InputStreamReader.ConvertByteToCharacterStream.ConvertByteStreamToCharacterStream" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.InputStreamReader.ConvertByteToCharacterStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOccurrenceOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FileReader.CountOccurenceOfWord.CountOccurrenceOfWord" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FileReader.CountOccurenceOfWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadUserInputAndWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.InputStreamReader.ReadUserInputAndWrite.ReadUserInputAndWrite" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.InputStreamReader.ReadUserInputAndWrite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dsgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ChallengeProblem.dsgs" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ChallengeProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChallengeProblem" />
+        <item itemvalue="Application.dsgs" />
+        <item itemvalue="Application.ReadUserInputAndWrite" />
+        <item itemvalue="Application.ConvertByteStreamToCharacterStream" />
+        <item itemvalue="Application.CountOccurrenceOfWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59071c4d-1156-4be3-a8e3-abb192ca813b" name="Changes" comment="" />
+      <created>1738643874831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738643874831</updated>
+    </task>
+    <servers />
+  </component>
+</project>
