@@ -1,0 +1,3 @@
+Hello My name is Subhashree Sharma
+Hello This is text file
+Hello We are finding occurrence of word

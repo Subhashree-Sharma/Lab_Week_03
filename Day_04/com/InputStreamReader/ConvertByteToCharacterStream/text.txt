@@ -1,0 +1,3 @@
+Hello My name is Subhashree Sharma
+And this is text file
+Here We are converting byte stream to character Stream
